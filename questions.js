@@ -44,17 +44,6 @@ questions = [
         }
     },
     {
-        "question": "Those who become rich from charging others to use their property are parasites.",
-        "effect": {
-            "b1": 2,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0,
-        }
-    },
-    {
         "question": "Wealth accumulation leads to the creation of an oppressive class system.",
         "effect": {
             "b1": 2,
@@ -66,7 +55,18 @@ questions = [
         }
     },
     {
-        "question": "When someone dies, their possessions rightfully belong to their descendants.",
+        "question": "Workers should seize the means of production.",
+        "effect": {
+            "b1": 2,
+            "b2": 0,
+            "b3": 0,
+            "b4": 0,
+            "b5": 0,
+            "b6": 0,
+        }
+    },
+    {
+        "question": "Bosses know what's best for their workers.",
         "effect": {
             "b1": -1,
             "b2": 0,
@@ -77,7 +77,7 @@ questions = [
         }
     },
     {
-        "question": "Theft is always wrong.",
+        "question": "Trade unions hurt the economy.",
         "effect": {
             "b1": -1,
             "b2": 0,
@@ -88,7 +88,7 @@ questions = [
         }
     },
     {
-        "question": "All rights stem from property rights.",
+        "question": "Theft can never be justified.",
         "effect": {
             "b1": -1,
             "b2": 0,
@@ -110,17 +110,6 @@ questions = [
         }
     },
     {
-        "question": "If someone is first to claim an area of land, they are entitled to profit from it.",
-        "effect": {
-            "b1": -2,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0,
-        }
-    },
-    {
         "question": "Landlords provide an essential service.",
         "effect": {
             "b1": -2,
@@ -132,7 +121,18 @@ questions = [
         }
     },
     {
-        "question": "Basic necessities like food and shelter should be free.",
+        "question": "If someone is first to claim an area of land, they are entitled to profit from it.",
+        "effect": {
+            "b1": -2,
+            "b2": 0,
+            "b3": 0,
+            "b4": 0,
+            "b5": 0,
+            "b6": 0,
+        }
+    },
+    {
+        "question": "In an ideal society, money would not exist.",
         "effect": {
             "b1": 0,
             "b2": 1,
@@ -176,7 +176,7 @@ questions = [
         }
     },
     {
-        "question": "In an ideal society, money would not exist.",
+        "question": "It’s wasteful to have so many different brands of the same good.",
         "effect": {
             "b1": 0,
             "b2": 2,
@@ -187,7 +187,7 @@ questions = [
         }
     },
     {
-        "question": "It’s wasteful to have so many different brands of the same good.",
+        "question": "Many industries are too important to be left to the market.",
         "effect": {
             "b1": 0,
             "b2": 2,
@@ -264,7 +264,7 @@ questions = [
         }
     },
     {
-        "question": "There can be no such thing as a benevolent dictatorship.",
+        "question": "Local governments should be more powerful than national governments.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -275,7 +275,18 @@ questions = [
         }
     },
     {
-        "question": "All authority should be questioned.",
+        "question": "Citizens, not bureaucrats, should hold political power.",
+        "effect": {
+            "b1": 0,
+            "b2": 0,
+            "b3": 1,
+            "b4": 0,
+            "b5": 0,
+            "b6": 0,
+        }
+    },
+    {
+        "question": "Nobody should have access to my private information without my consent.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -297,18 +308,7 @@ questions = [
         }
     },
     {
-        "question": "Referendums should be held more often.",
-        "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 1,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0,
-        }
-    },
-    {
-        "question": "Instead of voting for representatives, people should vote on individual issues.",
+        "question": "The state should be abolished.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -319,7 +319,7 @@ questions = [
         }
     },
     {
-        "question": "Hierarchies should be dismantled.",
+        "question": "Like minded individuals should form self governing communities.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -330,7 +330,7 @@ questions = [
         }
     },
     {
-        "question": "Large organisations need a top down structure to be effective.",
+        "question": "The vast majority of people cannot govern themselves.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -341,7 +341,7 @@ questions = [
         }
     },
     {
-        "question": "Not everyone deserves a say in how resources should be distributed.",
+        "question": "It is important for us to maintain a strong military.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -352,7 +352,7 @@ questions = [
         }
     },
     {
-        "question": "A society without strong leadership is destined to fail.",
+        "question": "Nations thrive when presided over by strong capable governments.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -363,7 +363,7 @@ questions = [
         }
     },
     {
-        "question": "People loyal to my cause should focus on attaining positions of power.",
+        "question": "There should be certain rules and standards that apply across all of society.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -374,7 +374,7 @@ questions = [
         }
     },
     {
-        "question": "Elections are a waste of resources.",
+        "question": "Only a select few can be trusted with political power.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -385,7 +385,7 @@ questions = [
         }
     },
     {
-        "question": "The most capable people in society should hold power over everyone else.",
+        "question": "Society must unite behind a central authority in order to be cohesive.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -396,7 +396,7 @@ questions = [
         }
     },
     {
-        "question": "People thrive when left to govern themselves.",
+        "question": "There should be no restrictions on abortion.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -506,7 +506,7 @@ questions = [
         }
     },
     {
-        "question": "Physical violence should be used against those who oppose my views.",
+        "question": "The worst criminals should be publicly executed.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -517,7 +517,7 @@ questions = [
         }
     },
     {
-        "question": "The worst criminals should be publicly executed.",
+        "question": "Physical violence should be used against those who oppose my views.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -572,7 +572,7 @@ questions = [
         }
     },
     {
-        "question": "People are whatever gender they say they are.",
+        "question": "Society should embrace multiculturalism.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -583,7 +583,7 @@ questions = [
         }
     },
     {
-        "question": "Society should embrace multiculturalism.",
+        "question": "People are whatever gender they say they are.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -638,7 +638,7 @@ questions = [
         }
     },
     {
-        "question": "It’s not healthy for children to be raised by gay couples.",
+        "question": "Certain ethnic groups are genetically predisposed to violence.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -649,7 +649,7 @@ questions = [
         }
     },
     {
-        "question": "Certain ethnic groups are genetically predisposed to violence.",
+        "question": "It’s not healthy for children to be raised by gay couples.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -704,17 +704,6 @@ questions = [
         }
     },
     {
-        "question": "The costs of automation outweigh the benefits.",
-        "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 1,
-        }
-    },
-    {
         "question": "We should return to a simpler, less materialistic way of living.",
         "effect": {
             "b1": 0,
@@ -734,6 +723,17 @@ questions = [
             "b4": 0,
             "b5": 0,
             "b6": 2,
+        }
+    },
+    {
+        "question": "The benefits of automation outweigh the costs.",
+        "effect": {
+            "b1": 0,
+            "b2": 0,
+            "b3": 0,
+            "b4": 0,
+            "b5": 0,
+            "b6": -1,
         }
     },
     {
