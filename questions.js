@@ -1070,7 +1070,7 @@ questions = [
         "question": "Workers in essential parts of the economy should not be allowed to strike.",
         "effect": {
             "b1": -1,
-            "b2": -1,
+            "b2": 1,
             "b3": 0,
             "b4": 0,
             "b5": 0,
