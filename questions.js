@@ -916,7 +916,7 @@ questions = [
         "question": "Local councils should have more power to implement economic policies.",
         "effect": {
             "b1": 0,
-            "b2": 1,
+            "b2": -1,
             "b3": 1,
             "b4": 0,
             "b5": 0,
@@ -961,7 +961,7 @@ questions = [
         "effect": {
             "b1": 0,
             "b2": 1,
-            "b3": -1,
+            "b3": 1,
             "b4": 0,
             "b5": 0,
             "b6": 0,
