@@ -209,7 +209,7 @@ questions = [
         }
     },
     {
-        "question": "Universal basic income is preferable to other forms of welfare.",
+        "question": "The prices of goods should be set by the market.",
         "effect": {
             "b1": 0,
             "b2": -1,
@@ -528,7 +528,7 @@ questions = [
         }
     },
     {
-        "question": "I consider myself a feminist.",
+        "question": "Equality between men and women is desirable.",
         "effect": {
             "b1": 0,
             "b2": 0,
