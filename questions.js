@@ -1,5 +1,49 @@
 questions = [
     {
+        "question": "Euthanasia should be legal.",
+        "effect": {
+            "b1": 0,
+            "b2": 0,
+            "b3": 0,
+            "b4": 1,
+            "b5": 0,
+            "b6": 0,
+        }
+    },
+    {
+        "question": "Citizens, not officials, should hold political power.",
+        "effect": {
+            "b1": 0,
+            "b2": 0,
+            "b3": -1,
+            "b4": 0,
+            "b5": 0,
+            "b6": 0,
+        }
+    },
+    {
+        "question": "Inequality is one of the biggest problems of our age.",
+        "effect": {
+            "b1": 1,
+            "b2": 0,
+            "b3": 0,
+            "b4": 0,
+            "b5": 0,
+            "b6": 0,
+        }
+    },
+    {
+        "question": "It is important to respect religion.",
+        "effect": {
+            "b1": 0,
+            "b2": 0,
+            "b3": 0,
+            "b4": 0,
+            "b5": 0,
+            "b6": 1,
+        }
+    },
+    {
         "question": "Scientific progress can improve many people’s lives.",
         "effect": {
             "b1": 0,
@@ -106,17 +150,6 @@ questions = [
             "b3": 0,
             "b4": 0,
             "b5": -1,
-            "b6": 0,
-        }
-    },
-    {
-        "question": "Inequality is one of the biggest problems of our age.",
-        "effect": {
-            "b1": 1,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
             "b6": 0,
         }
     },
@@ -338,17 +371,6 @@ questions = [
             "b4": 0,
             "b5": 0,
             "b6": 0,
-        }
-    },
-    {
-        "question": "It is important to respect religion.",
-        "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 1,
         }
     },
     {
@@ -627,17 +649,6 @@ questions = [
         }
     },
     {
-        "question": "Euthanasia should be legal.",
-        "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 1,
-            "b5": 0,
-            "b6": 0,
-        }
-    },
-    {
         "question": "Disabled people should not be discouraged from having children.",
         "effect": {
             "b1": 0,
@@ -767,17 +778,6 @@ questions = [
             "b4": 0,
             "b5": 0,
             "b6": 1,
-        }
-    },
-    {
-        "question": "Citizens, not officials, should hold political power.",
-        "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": -1,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0,
         }
     },
     {
