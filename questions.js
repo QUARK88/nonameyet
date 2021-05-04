@@ -220,17 +220,6 @@ questions = [
         }
     },
     {
-        "question": "Abandoned property should be free to use by any individual.",
-        "effect": {
-            "b1": 1,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0,
-        }
-    },
-    {
         "question": "In the future we should improve our own biology with technology.",
         "effect": {
             "b1": 0,
@@ -268,17 +257,6 @@ questions = [
         "effect": {
             "b1": -2,
             "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0,
-        }
-    },
-    {
-        "question": "Many industries are too important to be left to the market.",
-        "effect": {
-            "b1": 0,
-            "b2": 2,
             "b3": 0,
             "b4": 0,
             "b5": 0,
@@ -605,17 +583,6 @@ questions = [
         }
     },
     {
-        "question": "It’s not healthy for children to be raised by gay couples.",
-        "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": -2,
-            "b6": 0,
-        }
-    },
-    {
         "question": "Equality between men and women is desirable.",
         "effect": {
             "b1": 0,
@@ -748,17 +715,6 @@ questions = [
         }
     },
     {
-        "question": "Freedom of speech is vital for a healthy society.",
-        "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 1,
-            "b5": 0,
-            "b6": 0,
-        }
-    },
-    {
         "question": "We should return to a simpler, less materialistic way of living.",
         "effect": {
             "b1": 0,
@@ -767,17 +723,6 @@ questions = [
             "b4": 0,
             "b5": 0,
             "b6": 2,
-        }
-    },
-    {
-        "question": "Nomadic cultures have a wiser relationship with the land than we do.",
-        "effect": {
-            "b1": 1,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 1,
         }
     },
     {
@@ -800,17 +745,6 @@ questions = [
             "b4": 0,
             "b5": 0,
             "b6": 1,
-        }
-    },
-    {
-        "question": "It’s often necessary to break taboos.",
-        "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 1,
-            "b5": 0,
-            "b6": -1,
         }
     },
     {
@@ -854,17 +788,6 @@ questions = [
             "b3": 1,
             "b4": 0,
             "b5": -1,
-            "b6": 0,
-        }
-    },
-    {
-        "question": "Welfare can reduce people’s incentive to work.",
-        "effect": {
-            "b1": 0,
-            "b2": -1,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
             "b6": 0,
         }
     },
@@ -1117,6 +1040,83 @@ questions = [
             "b2": -1,
             "b3": 0,
             "b4": -1,
+            "b5": 0,
+            "b6": 0,
+        }
+    },
+    {
+        "question": "Abandoned property should be free to use by any individual.",
+        "effect": {
+            "b1": 1,
+            "b2": 0,
+            "b3": 0,
+            "b4": 0,
+            "b5": 0,
+            "b6": 0,
+        }
+    },
+    {
+        "question": "Many industries are too important to be left to the market.",
+        "effect": {
+            "b1": 0,
+            "b2": 2,
+            "b3": 0,
+            "b4": 0,
+            "b5": 0,
+            "b6": 0,
+        }
+    },
+    {
+        "question": "It’s not healthy for children to be raised by gay couples.",
+        "effect": {
+            "b1": 0,
+            "b2": 0,
+            "b3": 0,
+            "b4": 0,
+            "b5": -2,
+            "b6": 0,
+        }
+    },
+    {
+        "question": "Freedom of speech is vital for a healthy society.",
+        "effect": {
+            "b1": 0,
+            "b2": 0,
+            "b3": 0,
+            "b4": 1,
+            "b5": 0,
+            "b6": 0,
+        }
+    },
+    {
+        "question": "Nomadic cultures have a wiser relationship with the land than we do.",
+        "effect": {
+            "b1": 1,
+            "b2": 0,
+            "b3": 0,
+            "b4": 0,
+            "b5": 0,
+            "b6": 1,
+        }
+    },
+    {
+        "question": "It’s often necessary to break taboos.",
+        "effect": {
+            "b1": 0,
+            "b2": 0,
+            "b3": 0,
+            "b4": 1,
+            "b5": 0,
+            "b6": -1,
+        }
+    },
+    {
+        "question": "Welfare can reduce people’s incentive to work.",
+        "effect": {
+            "b1": 0,
+            "b2": -1,
+            "b3": 0,
+            "b4": 0,
             "b5": 0,
             "b6": 0,
         }
