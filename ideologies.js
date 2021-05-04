@@ -108,5 +108,38 @@ ideologies = [
             "b5": 5,
             "b6": 45,
         }
+    },
+    {
+        "name": "Anarcho-Communism",
+        "stats": {
+            "b1": 90,
+            "b2": 60,
+            "b3": 0,
+            "b4": 75,
+            "b5": 75,
+            "b6": 50,
+        }
+    },
+    {
+        "name": "American Progressivism",
+        "stats": {
+            "b1": 40,
+            "b2": 60,
+            "b3": 60,
+            "b4": 80,
+            "b5": 90,
+            "b6": 25,
+        }
+    },
+    {
+        "name": "Marxism Leninism",
+        "stats": {
+            "b1": 80,
+            "b2": 85,
+            "b3": 80,
+            "b4": 30,
+            "b5": 55,
+            "b6": 25,
+        }
     }
 ];
