@@ -176,17 +176,6 @@ questions = [
         }
     },
     {
-        "question": "Inheritance should be abolished.",
-        "effect": {
-            "b1": 1,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0,
-        }
-    },
-    {
         "question": "Nations thrive when presided over by strong capable governments.",
         "effect": {
             "b1": 0,
@@ -253,17 +242,6 @@ questions = [
         }
     },
     {
-        "question": "If someone is first to claim an area of land, they are entitled to profit from it.",
-        "effect": {
-            "b1": -2,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 0,
-        }
-    },
-    {
         "question": "A singular world government is desirable.",
         "effect": {
             "b1": 0,
@@ -315,17 +293,6 @@ questions = [
             "b3": 0,
             "b4": 1,
             "b5": 1,
-            "b6": 0,
-        }
-    },
-    {
-        "question": "All drugs should be decriminalised.",
-        "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 1,
-            "b5": 0,
             "b6": 0,
         }
     },
@@ -561,17 +528,6 @@ questions = [
         }
     },
     {
-        "question": "An individual should be allowed to do whatever they want with their body.",
-        "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 2,
-            "b5": 0,
-            "b6": 0,
-        }
-    },
-    {
         "question": "Feudalism was not such a bad system.",
         "effect": {
             "b1": -1,
@@ -715,17 +671,6 @@ questions = [
         }
     },
     {
-        "question": "We should return to a simpler, less materialistic way of living.",
-        "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 2,
-        }
-    },
-    {
         "question": "We should combat mindless consumerism.",
         "effect": {
             "b1": 0,
@@ -734,17 +679,6 @@ questions = [
             "b4": 0,
             "b5": 0,
             "b6": 0,
-        }
-    },
-    {
-        "question": "There are moral rules which should never be broken.",
-        "effect": {
-            "b1": 0,
-            "b2": 0,
-            "b3": 0,
-            "b4": 0,
-            "b5": 0,
-            "b6": 1,
         }
     },
     {
@@ -1120,5 +1054,71 @@ questions = [
             "b5": 0,
             "b6": 0,
         }
-    }
+    },
+    {
+        "question": "All drugs should be decriminalised.",
+        "effect": {
+            "b1": 0,
+            "b2": 0,
+            "b3": 0,
+            "b4": 1,
+            "b5": 0,
+            "b6": 0,
+        }
+    },
+    {
+        "question": "Inheritance should be abolished.",
+        "effect": {
+            "b1": 1,
+            "b2": 0,
+            "b3": 0,
+            "b4": 0,
+            "b5": 0,
+            "b6": 0,
+        }
+    },
+    {
+        "question": "We should return to a simpler, less materialistic way of living.",
+        "effect": {
+            "b1": 0,
+            "b2": 0,
+            "b3": 0,
+            "b4": 0,
+            "b5": 0,
+            "b6": 2,
+        }
+    },
+    {
+        "question": "If someone is first to claim an area of land, they are entitled to profit from it.",
+        "effect": {
+            "b1": -2,
+            "b2": 0,
+            "b3": 0,
+            "b4": 0,
+            "b5": 0,
+            "b6": 0,
+        }
+    },
+    {
+        "question": "An individual should be allowed to do whatever they want with their body.",
+        "effect": {
+            "b1": 0,
+            "b2": 0,
+            "b3": 0,
+            "b4": 2,
+            "b5": 0,
+            "b6": 0,
+        }
+    },
+    {
+        "question": "There are moral rules which should never be broken.",
+        "effect": {
+            "b1": 0,
+            "b2": 0,
+            "b3": 0,
+            "b4": 0,
+            "b5": 0,
+            "b6": 1,
+        }
+    },
 ];
