@@ -484,7 +484,7 @@ questions = [
         }
     },
     {
-        "question": "Disabled people should be discouraged from reproducing.",
+        "question": "Women are naturally more nurturing than men.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -638,7 +638,7 @@ questions = [
         }
     },
     {
-        "question": "Women are naturally more nurturing than men.",
+        "question": "Disabled people should not be discouraged from having children.",
         "effect": {
             "b1": 0,
             "b2": 0,
