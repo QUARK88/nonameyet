@@ -266,9 +266,9 @@ ideologies = [
     {
         "name": "Neoliberalism",
         "stats": {
-            "b1": 25,
-            "b2": 25,
-            "b3": 65,
+            "b1": 30,
+            "b2": 30,
+            "b3": 60,
             "b4": 65,
             "b5": 80,
             "b6": 30,
@@ -514,6 +514,72 @@ ideologies = [
             "b4": 70,
             "b5": 65,
             "b6": 70,
+        }
+    },
+    {
+        "name": "Enlightened Absolutism",
+        "stats": {
+            "b1": 20,
+            "b2": 35,
+            "b3": 80,
+            "b4": 75,
+            "b5": 50,
+            "b6": 40,
+        }
+    },
+    {
+        "name": "Absolute Monarchism",
+        "stats": {
+            "b1": 5,
+            "b2": 65,
+            "b3": 90,
+            "b4": 30,
+            "b5": 40,
+            "b6": 65,
+        }
+    },
+    {
+        "name": "Right Libertarianism",
+        "stats": {
+            "b1": 20,
+            "b2": 20,
+            "b3": 35,
+            "b4": 85,
+            "b5": 60,
+            "b6": 50,
+        }
+    },
+    {
+        "name": "Titoism",
+        "stats": {
+            "b1": 80,
+            "b2": 55,
+            "b3": 45,
+            "b4": 45,
+            "b5": 70,
+            "b6": 40,
+        }
+    },
+    {
+        "name": "Social Liberalism",
+        "stats": {
+            "b1": 35,
+            "b2": 50,
+            "b3": 50,
+            "b4": 70,
+            "b5": 80,
+            "b6": 40,
+        }
+    },
+    {
+        "name": "Geolibertarianism",
+        "stats": {
+            "b1": 50,
+            "b2": 15,
+            "b3": 30,
+            "b4": 95,
+            "b5": 65,
+            "b6": 40,
         }
     }
 ];
