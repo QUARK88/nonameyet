@@ -394,5 +394,126 @@ ideologies = [
             "b5": 60,
             "b6": 45,
         }
+    },
+    {
+        "name": "Democratic Socialism",
+        "stats": {
+            "b1": 60,
+            "b2": 80,
+            "b3": 60,
+            "b4": 60,
+            "b5": 70,
+            "b6": 45,
+        }
+    },
+    {
+        "name": "Conservative Socialism",
+        "stats": {
+            "b1": 70,
+            "b2": 80,
+            "b3": 50,
+            "b4": 40,
+            "b5": 40,
+            "b6": 65,
+        }
+    },
+    {
+        "name": "Korwinism",
+        "stats": {
+            "b1": 15,
+            "b2": 10,
+            "b3": 25,
+            "b4": 90,
+            "b5": 10,
+            "b6": 60,
+        }
+    },
+    {
+        "name": "Pink Capitalism",
+        "stats": {
+            "b1": 20,
+            "b2": 10,
+            "b3": 50,
+            "b4": 90,
+            "b5": 90,
+            "b6": 35,
+        }
+    },
+    {
+        "name": "Libertarian Market Socialism",
+        "stats": {
+            "b1": 85,
+            "b2": 30,
+            "b3": 30,
+            "b4": 95,
+            "b5": 75,
+            "b6": 40,
+        }
+    },
+    {
+        "name": "Queer Anarchism",
+        "stats": {
+            "b1": 85,
+            "b2": 55,
+            "b3": 5,
+            "b4": 90,
+            "b5": 100,
+            "b6": 45,
+        }
+    },
+    {
+        "name": "Anarcha-Feminism",
+        "stats": {
+            "b1": 85,
+            "b2": 35,
+            "b3": 5,
+            "b4": 85,
+            "b5": 100,
+            "b6": 40,
+        }
+    },
+    {
+        "name": "National Transhumanism",
+        "stats": {
+            "b1": 35,
+            "b2": 65,
+            "b3": 90,
+            "b4": 30,
+            "b5": 5,
+            "b6": 10,
+        }
+    },
+    {
+        "name": "Odalism",
+        "stats": {
+            "b1": 55,
+            "b2": 55,
+            "b3": 10,
+            "b4": 35,
+            "b5": 20,
+            "b6": 100,
+        }
+    },
+    {
+        "name": "National Anarchism",
+        "stats": {
+            "b1": 80,
+            "b2": 25,
+            "b3": 5,
+            "b4": 40,
+            "b5": 10,
+            "b6": 60,
+        }
+    },
+    {
+        "name": "Agrarian Anarchism",
+        "stats": {
+            "b1": 60,
+            "b2": 60,
+            "b3": 5,
+            "b4": 70,
+            "b5": 65,
+            "b6": 70,
+        }
     }
 ];
