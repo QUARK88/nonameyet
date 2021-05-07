@@ -174,5 +174,225 @@ ideologies = [
             "b5": 20,
             "b6": 45,
         }
+    },
+    {
+        "name": "Libertarian Marxism",
+        "stats": {
+            "b1": 95,
+            "b2": 70,
+            "b3": 20,
+            "b4": 80,
+            "b5": 75,
+            "b6": 35,
+        }
+    },
+    {
+        "name": "Mutualism",
+        "stats": {
+            "b1": 75,
+            "b2": 20,
+            "b3": 0,
+            "b4": 90,
+            "b5": 60,
+            "b6": 50,
+        }
+    },
+    {
+        "name": "Individualist Anarchism",
+        "stats": {
+            "b1": 70,
+            "b2": 15,
+            "b3": 0,
+            "b4": 100,
+            "b5": 65,
+            "b6": 35,
+        }
+    },
+    {
+        "name": "Collectivist Anarchism",
+        "stats": {
+            "b1": 80,
+            "b2": 40,
+            "b3": 0,
+            "b4": 80,
+            "b5": 55,
+            "b6": 55,
+        }
+    },
+    {
+        "name": "Collectivist Anarchism",
+        "stats": {
+            "b1": 80,
+            "b2": 40,
+            "b3": 0,
+            "b4": 80,
+            "b5": 50,
+            "b6": 50,
+        }
+    },
+    {
+        "name": "Marxism",
+        "stats": {
+            "b1": 95,
+            "b2": 80,
+            "b3": 45,
+            "b4": 55,
+            "b5": 70,
+            "b6": 30,
+        }
+    },
+    {
+        "name": "Anarcho-Capitalism",
+        "stats": {
+            "b1": 20,
+            "b2": 5,
+            "b3": 10,
+            "b4": 95,
+            "b5": 50,
+            "b6": 40,
+        }
+    },
+    {
+        "name": "Minarchism",
+        "stats": {
+            "b1": 20,
+            "b2": 10,
+            "b3": 25,
+            "b4": 95,
+            "b5": 50,
+            "b6": 40,
+        }
+    },
+    {
+        "name": "Neoliberalism",
+        "stats": {
+            "b1": 25,
+            "b2": 25,
+            "b3": 65,
+            "b4": 65,
+            "b5": 80,
+            "b6": 30,
+        }
+    },
+    {
+        "name": "Paternalistic Conservatism",
+        "stats": {
+            "b1": 25,
+            "b2": 70,
+            "b3": 75,
+            "b4": 30,
+            "b5": 45,
+            "b6": 70,
+        }
+    },
+    {
+        "name": "Small Government Conservatism",
+        "stats": {
+            "b1": 20,
+            "b2": 15,
+            "b3": 20,
+            "b4": 70,
+            "b5": 40,
+            "b6": 70,
+        }
+    },
+    {
+        "name": "Market Socialism",
+        "stats": {
+            "b1": 85,
+            "b2": 45,
+            "b3": 45,
+            "b4": 60,
+            "b5": 70,
+            "b6": 45,
+        }
+    },
+    {
+        "name": "Fordism",
+        "stats": {
+            "b1": 10,
+            "b2": 55,
+            "b3": 90,
+            "b4": 60,
+            "b5": 95,
+            "b6": 0,
+        }
+    },
+    {
+        "name": "Clerical Fascism",
+        "stats": {
+            "b1": 30,
+            "b2": 70,
+            "b3": 85,
+            "b4": 10,
+            "b5": 10,
+            "b6": 85,
+        }
+    },
+    {
+        "name": "Esoteric Fascism",
+        "stats": {
+            "b1": 35,
+            "b2": 70,
+            "b3": 90,
+            "b4": 20,
+            "b5": 0,
+            "b6": 90,
+        }
+    },
+    {
+        "name": "Ba’athism",
+        "stats": {
+            "b1": 40,
+            "b2": 65,
+            "b3": 85,
+            "b4": 25,
+            "b5": 25,
+            "b6": 40,
+        }
+    },
+    {
+        "name": "Council Communism",
+        "stats": {
+            "b1": 90,
+            "b2": 80,
+            "b3": 25,
+            "b4": 65,
+            "b5": 85,
+            "b6": 40,
+        }
+    },
+    {
+        "name": "Trotskyism",
+        "stats": {
+            "b1": 80,
+            "b2": 70,
+            "b3": 70,
+            "b4": 50,
+            "b5": 70,
+            "b6": 35,
+        }
+    },
+    {
+        "name": "Left Communism",
+        "stats": {
+            "b1": 85,
+            "b2": 80,
+            "b3": 45,
+            "b4": 50,
+            "b5": 80,
+            "b6": 40,
+        }
+    },
+    {
+        "name": "Maoism",
+        "stats": {
+            "b1": 75,
+            "b2": 75,
+            "b3": 75,
+            "b4": 40,
+            "b5": 60,
+            "b6": 45,
+        }
     }
 ];
