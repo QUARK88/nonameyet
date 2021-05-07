@@ -300,7 +300,7 @@ ideologies = [
         "name": "Market Socialism",
         "stats": {
             "b1": 85,
-            "b2": 45,
+            "b2": 35,
             "b3": 45,
             "b4": 60,
             "b5": 70,
