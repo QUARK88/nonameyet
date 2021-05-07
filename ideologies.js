@@ -233,7 +233,7 @@ ideologies = [
     {
         "name": "Marxism",
         "stats": {
-            "b1": 95,
+            "b1": 85,
             "b2": 80,
             "b3": 45,
             "b4": 55,
@@ -300,7 +300,7 @@ ideologies = [
         "name": "Market Socialism",
         "stats": {
             "b1": 85,
-            "b2": 35,
+            "b2": 25,
             "b3": 45,
             "b4": 60,
             "b5": 70,
@@ -376,7 +376,7 @@ ideologies = [
     {
         "name": "Left Communism",
         "stats": {
-            "b1": 85,
+            "b1": 90,
             "b2": 80,
             "b3": 45,
             "b4": 50,
@@ -443,7 +443,7 @@ ideologies = [
         "name": "Libertarian Market Socialism",
         "stats": {
             "b1": 85,
-            "b2": 30,
+            "b2": 20,
             "b3": 30,
             "b4": 95,
             "b5": 75,
