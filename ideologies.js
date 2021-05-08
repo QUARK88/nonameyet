@@ -220,17 +220,6 @@ ideologies = [
         }
     },
     {
-        "name": "Collectivist Anarchism",
-        "stats": {
-            "b1": 80,
-            "b2": 40,
-            "b3": 0,
-            "b4": 80,
-            "b5": 50,
-            "b6": 50,
-        }
-    },
-    {
         "name": "Marxism",
         "stats": {
             "b1": 85,
@@ -624,6 +613,94 @@ ideologies = [
             "b4": 60,
             "b5": 55,
             "b6": 0,
+        }
+    },
+    {
+        "name": "Third Way",
+        "stats": {
+            "b1": 35,
+            "b2": 40,
+            "b3": 55,
+            "b4": 70,
+            "b5": 85,
+            "b6": 30,
+        }
+    },
+    {
+        "name": "Christian Democracy",
+        "stats": {
+            "b1": 40,
+            "b2": 55,
+            "b3": 45,
+            "b4": 45,
+            "b5": 50,
+            "b6": 70,
+        }
+    },
+    {
+        "name": "Bismarckism",
+        "stats": {
+            "b1": 25,
+            "b2": 75,
+            "b3": 75,
+            "b4": 35,
+            "b5": 40,
+            "b6": 60,
+        }
+    },
+    {
+        "name": "Classical Conservatism",
+        "stats": {
+            "b1": 20,
+            "b2": 50,
+            "b3": 55,
+            "b4": 40,
+            "b5": 35,
+            "b6": 80,
+        }
+    },
+    {
+        "name": "Neoconservatism",
+        "stats": {
+            "b1": 20,
+            "b2": 35,
+            "b3": 60,
+            "b4": 50,
+            "b5": 50,
+            "b6": 45,
+        }
+    },
+    {
+        "name": "Nordic Model",
+        "stats": {
+            "b1": 45,
+            "b2": 55,
+            "b3": 45,
+            "b4": 70,
+            "b5": 80,
+            "b6": 45,
+        }
+    },
+    {
+        "name": "Liberal Democracy",
+        "stats": {
+            "b1": 35,
+            "b2": 40,
+            "b3": 50,
+            "b4": 70,
+            "b5": 80,
+            "b6": 35,
+        }
+    },
+    {
+        "name": "Social Authoritarianism",
+        "stats": {
+            "b1": 45,
+            "b2": 70,
+            "b3": 75,
+            "b4": 45,
+            "b5": 65,
+            "b6": 40,
         }
     }
 ];
