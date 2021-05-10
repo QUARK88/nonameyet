@@ -990,17 +990,6 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Frontierism",
-        "stats": {
-            "b1": 55,
-            "b2": 10,
-            "b3": 0,
-            "b4": 95,
-            "b5": 70,
-            "b6": 15,
-        }
-    },
-    {
         "name": "Barracks Communism",
         "stats": {
             "b1": 90,
