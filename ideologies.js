@@ -1021,5 +1021,60 @@ ideologies = [
             "b5": 80,
             "b6": 40,
         }
+    },
+    {
+        "name": "Radical Liberalism",
+        "stats": {
+            "b1": 40,
+            "b2": 50,
+            "b3": 40,
+            "b4": 50,
+            "b5": 80,
+            "b6": 30,
+        }
+    },
+    {
+        "name": "Liberal Socialism",
+        "stats": {
+            "b1": 65,
+            "b2": 55,
+            "b3": 55,
+            "b4": 80,
+            "b5": 85,
+            "b6": 40,
+        }
+    },
+    {
+        "name": "State Corporatism",
+        "stats": {
+            "b1": 35,
+            "b2": 75,
+            "b3": 85,
+            "b4": 40,
+            "b5": 50,
+            "b6": 45,
+        }
+    },
+    {
+        "name": "Social Corporatism",
+        "stats": {
+            "b1": 40,
+            "b2": 75,
+            "b3": 60,
+            "b4": 60,
+            "b5": 75,
+            "b6": 40,
+        }
+    },
+    {
+        "name": "Ricardian Socialism",
+        "stats": {
+            "b1": 80,
+            "b2": 25,
+            "b3": 40,
+            "b4": 70,
+            "b5": 65,
+            "b6": 55,
+        }
     }
 ];
