@@ -355,7 +355,7 @@ ideologies = [
         "name": "Trotskyism",
         "stats": {
             "b1": 80,
-            "b2": 70,
+            "b2": 80,
             "b3": 70,
             "b4": 50,
             "b5": 70,
@@ -564,7 +564,7 @@ ideologies = [
         "name": "Geolibertarianism",
         "stats": {
             "b1": 50,
-            "b2": 15,
+            "b2": 5,
             "b3": 30,
             "b4": 95,
             "b5": 65,
@@ -719,10 +719,307 @@ ideologies = [
         "stats": {
             "b1": 90,
             "b2": 65,
-            "b3": 30,
+            "b3": 0,
             "b4": 70,
             "b5": 80,
+            "b6": 70,
+        }
+    },
+    {
+        "name": "Pirate Politics",
+        "stats": {
+            "b1": 50,
+            "b2": 40,
+            "b3": 30,
+            "b4": 90,
+            "b5": 65,
+            "b6": 30,
+        }
+    },
+    {
+        "name": "Social Georgism",
+        "stats": {
+            "b1": 55,
+            "b2": 45,
+            "b3": 40,
+            "b4": 75,
+            "b5": 75,
+            "b6": 40,
+        }
+    },
+    {
+        "name": "Social Distributism",
+        "stats": {
+            "b1": 55,
+            "b2": 50,
+            "b3": 30,
+            "b4": 45,
+            "b5": 65,
+            "b6": 80,
+        }
+    },
+    {
+        "name": "Leninism",
+        "stats": {
+            "b1": 80,
+            "b2": 75,
+            "b3": 65,
+            "b4": 45,
+            "b5": 65,
+            "b6": 30,
+        }
+    },
+    {
+        "name": "Religious Anarchism",
+        "stats": {
+            "b1": 80,
+            "b2": 65,
+            "b3": 0,
+            "b4": 70,
+            "b5": 60,
+            "b6": 80,
+        }
+    },
+    {
+        "name": "Market Anarchism",
+        "stats": {
+            "b1": 60,
+            "b2": 10,
+            "b3": 0,
+            "b4": 95,
+            "b5": 75,
+            "b6": 40,
+        }
+    },
+    {
+        "name": "Austrolibertarianism",
+        "stats": {
+            "b1": 15,
+            "b2": 5,
+            "b3": 40,
+            "b4": 85,
+            "b5": 45,
+            "b6": 55,
+        }
+    },
+    {
+        "name": "Geo-Anarchism",
+        "stats": {
+            "b1": 50,
+            "b2": 5,
+            "b3": 5,
+            "b4": 95,
+            "b5": 65,
+            "b6": 50,
+        }
+    },
+    {
+        "name": "Left Wing Populism",
+        "stats": {
+            "b1": 50,
+            "b2": 65,
+            "b3": 45,
+            "b4": 60,
+            "b5": 60,
+            "b6": 45,
+        }
+    },
+    {
+        "name": "Austrolibertarian Market Socialism",
+        "stats": {
+            "b1": 75,
+            "b2": 0,
+            "b3": 30,
+            "b4": 95,
+            "b5": 75,
+            "b6": 40,
+        }
+    },
+    {
+        "name": "Theocracy",
+        "stats": {
+            "b1": 40,
+            "b2": 60,
+            "b3": 70,
+            "b4": 25,
+            "b5": 50,
+            "b6": 80,
+        }
+    },
+    {
+        "name": "Conservative Liberalism",
+        "stats": {
+            "b1": 20,
+            "b2": 35,
+            "b3": 50,
+            "b4": 60,
+            "b5": 45,
+            "b6": 60,
+        }
+    },
+    {
+        "name": "Liberal Conservatism",
+        "stats": {
+            "b1": 20,
+            "b2": 30,
+            "b3": 55,
+            "b4": 45,
+            "b5": 65,
+            "b6": 55,
+        }
+    },
+    {
+        "name": "Libertarian Conservatism",
+        "stats": {
+            "b1": 20,
+            "b2": 20,
+            "b3": 40,
+            "b4": 80,
+            "b5": 60,
             "b6": 65,
+        }
+    },
+    {
+        "name": "Paleoconservatism",
+        "stats": {
+            "b1": 30,
+            "b2": 50,
+            "b3": 40,
+            "b4": 45,
+            "b5": 30,
+            "b6": 65,
+        }
+    },
+    {
+        "name": "Right Wing Populism",
+        "stats": {
+            "b1": 35,
+            "b2": 55,
+            "b3": 35,
+            "b4": 50,
+            "b5": 30,
+            "b6": 55,
+        }
+    },
+    {
+        "name": "Paleolibertarianism",
+        "stats": {
+            "b1": 15,
+            "b2": 10,
+            "b3": 30,
+            "b4": 85,
+            "b5": 30,
+            "b6": 65,
+        }
+    },
+    {
+        "name": "Post-Left Anarchism",
+        "stats": {
+            "b1": 75,
+            "b2": 35,
+            "b3": 0,
+            "b4": 100,
+            "b5": 70,
+            "b6": 35,
+        }
+    },
+    {
+        "name": "Post-Left Anarchism",
+        "stats": {
+            "b1": 75,
+            "b2": 35,
+            "b3": 0,
+            "b4": 100,
+            "b5": 70,
+            "b6": 35,
+        }
+    },
+    {
+        "name": "Feudalism",
+        "stats": {
+            "b1": 10,
+            "b2": 45,
+            "b3": 50,
+            "b4": 30,
+            "b5": 40,
+            "b6": 95,
+        }
+    },
+    {
+        "name": "Authoritarian Democracy",
+        "stats": {
+            "b1": 40,
+            "b2": 65,
+            "b3": 55,
+            "b4": 35,
+            "b5": 40,
+            "b6": 50,
+        }
+    },
+    {
+        "name": "Neo-Marxism",
+        "stats": {
+            "b1": 85,
+            "b2": 80,
+            "b3": 45,
+            "b4": 80,
+            "b5": 95,
+            "b6": 25,
+        }
+    },
+    {
+        "name": "Bleeding-Heart Libertarianism",
+        "stats": {
+            "b1": 30,
+            "b2": 20,
+            "b3": 35,
+            "b4": 95,
+            "b5": 85,
+            "b6": 40,
+        }
+    },
+    {
+        "name": "Left-Rothbardianism",
+        "stats": {
+            "b1": 40,
+            "b2": 5,
+            "b3": 5,
+            "b4": 95,
+            "b5": 60,
+            "b6": 40,
+        }
+    },
+    {
+        "name": "Anarcho-Frontierism",
+        "stats": {
+            "b1": 55,
+            "b2": 10,
+            "b3": 0,
+            "b4": 95,
+            "b5": 70,
+            "b6": 15,
+        }
+    },
+    {
+        "name": "Barracks Communism",
+        "stats": {
+            "b1": 90,
+            "b2": 80,
+            "b3": 40,
+            "b4": 30,
+            "b5": 60,
+            "b6": 55,
+        }
+    },
+    {
+        "name": "Religious Socialism",
+        "stats": {
+            "b1": 75,
+            "b2": 75,
+            "b3": 50,
+            "b4": 50,
+            "b5": 60,
+            "b6": 75,
         }
     }
 ];
