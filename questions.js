@@ -264,7 +264,7 @@ questions = [
         }
     },
     {
-        "question": "We should only maintain a military for self defence.",
+        "question": "We should not engage in offensive warfare.",
         "effect": {
             "b1": 0,
             "b2": 0,
