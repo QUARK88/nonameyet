@@ -341,17 +341,6 @@ ideologies = [
         }
     },
     {
-        "name": "Trotskyism",
-        "stats": {
-            "b1": 80,
-            "b2": 80,
-            "b3": 70,
-            "b4": 50,
-            "b5": 70,
-            "b6": 35,
-        }
-    },
-    {
         "name": "Left Communism",
         "stats": {
             "b1": 90,
