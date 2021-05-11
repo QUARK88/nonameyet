@@ -132,17 +132,6 @@ ideologies = [
         }
     },
     {
-        "name": "Marxism Leninism",
-        "stats": {
-            "b1": 80,
-            "b2": 85,
-            "b3": 80,
-            "b4": 30,
-            "b5": 55,
-            "b6": 25,
-        }
-    },
-    {
         "name": "Anarcho-Transhumanism",
         "stats": {
             "b1": 70,
@@ -899,17 +888,6 @@ ideologies = [
             "b4": 85,
             "b5": 30,
             "b6": 65,
-        }
-    },
-    {
-        "name": "Post-Left Anarchism",
-        "stats": {
-            "b1": 75,
-            "b2": 35,
-            "b3": 0,
-            "b4": 100,
-            "b5": 70,
-            "b6": 35,
         }
     },
     {
