@@ -374,17 +374,6 @@ ideologies = [
         }
     },
     {
-        "name": "Maoism",
-        "stats": {
-            "b1": 75,
-            "b2": 75,
-            "b3": 75,
-            "b4": 40,
-            "b5": 60,
-            "b6": 45,
-        }
-    },
-    {
         "name": "Democratic Socialism",
         "stats": {
             "b1": 60,
