@@ -1076,5 +1076,115 @@ ideologies = [
             "b5": 65,
             "b6": 55,
         }
+    },
+    {
+        "name": "Cameralism",
+        "stats": {
+            "b1": 10,
+            "b2": 80,
+            "b3": 90,
+            "b4": 30,
+            "b5": 40,
+            "b6": 60,
+        }
+    },
+    {
+        "name": "Maoism",
+        "stats": {
+            "b1": 75,
+            "b2": 75,
+            "b3": 75,
+            "b4": 30,
+            "b5": 65,
+            "b6": 40,
+        }
+    },
+    {
+        "name": "Marxism Leninism",
+        "stats": {
+            "b1": 75,
+            "b2": 80,
+            "b3": 75,
+            "b4": 30,
+            "b5": 55,
+            "b6": 30,
+        }
+    },
+    {
+        "name": "Trotskyism",
+        "stats": {
+            "b1": 80,
+            "b2": 90,
+            "b3": 65,
+            "b4": 45,
+            "b5": 70,
+            "b6": 25,
+        }
+    },
+    {
+        "name": "Hamiltonianism",
+        "stats": {
+            "b1": 25,
+            "b2": 65,
+            "b3": 60,
+            "b4": 75,
+            "b5": 50,
+            "b6": 45,
+        }
+    },
+    {
+        "name": "Jeffersonian Democracy",
+        "stats": {
+            "b1": 30,
+            "b2": 35,
+            "b3": 30,
+            "b4": 75,
+            "b5": 55,
+            "b6": 45,
+        }
+    },
+    {
+        "name": "Authoritarian Conservatism",
+        "stats": {
+            "b1": 15,
+            "b2": 75,
+            "b3": 70,
+            "b4": 25,
+            "b5": 40,
+            "b6": 70,
+        }
+    },
+    {
+        "name": "State Capitalism",
+        "stats": {
+            "b1": 15,
+            "b2": 85,
+            "b3": 75,
+            "b4": 45,
+            "b5": 55,
+            "b6": 40,
+        }
+    },
+    {
+        "name": "Authoritarian Capitalism",
+        "stats": {
+            "b1": 15,
+            "b2": 30,
+            "b3": 80,
+            "b4": 30,
+            "b5": 55,
+            "b6": 40,
+        }
+    },
+    {
+        "name": "Lange Model",
+        "stats": {
+            "b1": 85,
+            "b2": 50,
+            "b3": 80,
+            "b4": 30,
+            "b5": 55,
+            "b6": 30,
+        }
     }
 ];
